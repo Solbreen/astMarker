@@ -1,0 +1,26 @@
+first_shape:
+  shape: 1
+  size: 16.0
+  RGBA_color:
+    - 255
+    - 0
+    - 0
+    - 255
+  RGBA_outline_color:
+    - 255
+    - 178
+    - 102
+    - 255
+second_shape:
+  shape: 3
+  size: 16.0
+  RGBA_color:
+    - 128
+    - 128
+    - 0
+    - 255 
+  RGBA_outline_color:
+    - 255
+    - 178
+    - 102
+    - 255
