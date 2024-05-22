@@ -12,7 +12,7 @@ first_shape:
     - 102
     - 255
 second_shape:
-  shape: 3
+  shape: 1
   size: 16.0
   RGBA_color:
     - 128
